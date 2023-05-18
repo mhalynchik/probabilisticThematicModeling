@@ -1,0 +1,183 @@
+1. +0,Computer Science,,
+1.1.,,Computer Science,
+1.1.1.,,,Artificial Intelligence
+1.1.2.,,,Hardware Architecture
+1.1.3.,,,Computational Complexity
+1.1.4.,,,"Computational Engineering, Finance, and Science"
+1.1.5.,,,Computational Geometry
+1.1.6.,,,Computation and Language
+1.1.7.,,,Cryptography and Security
+1.1.8.,,,Computer Vision and Pattern Recognition
+1.1.9.,,,Computers and Society
+1.1.10.,,,Databases
+1.1.11.,,,"Distributed, Parallel, and Cluster Computing"
+1.1.12.,,,Digital Libraries
+1.1.13.,,,Discrete Mathematics
+1.1.14.,,,Data Structures and Algorithms
+1.1.15.,,,Emerging Technologies
+1.1.16.,,,Formal Languages and Automata Theory
+1.1.17.,,,General Literature
+1.1.18.,,,Graphics
+1.1.19.,,,Computer Science and Game Theory
+1.1.20.,,,Human-Computer Interaction
+1.1.21.,,,Information Retrieval
+1.1.22.,,,Information Theory
+1.1.23.,,,Machine Learning
+1.1.24.,,,Logic in Computer Science
+1.1.25.,,,Multiagent Systems
+1.1.26.,,,Multimedia
+1.1.27.,,,Mathematical Software
+1.1.28.,,,Numerical Analysis
+1.1.29.,,,Neural and Evolutionary Computing
+1.1.30.,,,Networking and Internet Architecture
+1.1.31.,,,Other Computer Science
+1.1.32.,,,Operating Systems
+1.1.33.,,,Performance
+1.1.34.,,,Programming Languages
+1.1.35.,,,Robotics
+1.1.36.,,,Symbolic Computation
+1.1.37.,,,Sound
+1.1.38.,,,Software Engineering
+1.1.39.,,,Social and Information Networks
+1.1.40.,,,Systems and Control
+2. +0,Economics,,
+2.1.,,Economics,
+2.1.1.,,,Econometrics
+2.1.2.,,,General Economics
+2.1.3.,,,Theoretical Economics
+3. +0,Electrical Engineering and Systems Science,,
+3.1.,,Electrical Engineering and Systems Science,
+3.1.1.,,,Audio and Speech Processing
+3.1.2.,,,Image and Video Processing
+3.1.3.,,,Signal Processing
+3.1.4.,,,Systems and Control
+4. +0,Mathematics,,
+4.1.,,Mathematics,
+4.1.1.,,,Commutative Algebra
+4.1.2.,,,Algebraic Geometry
+4.1.3.,,,Analysis of PDEs
+4.1.4.,,,Algebraic Topology
+4.1.5.,,,Classical Analysis and ODEs
+4.1.6.,,,Combinatorics
+4.1.7.,,,Category Theory
+4.1.8.,,,Complex Variables
+4.1.9.,,,Differential Geometry
+4.1.10.,,,Dynamical Systems
+4.1.11.,,,Functional Analysis
+4.1.12.,,,General Mathematics
+4.1.13.,,,General Topology
+4.1.14.,,,Group Theory
+4.1.15.,,,Geometric Topology
+4.1.16.,,,History and Overview
+4.1.17.,,,Information Theory
+4.1.18.,,,K-Theory and Homology
+4.1.19.,,,Logic
+4.1.20.,,,Metric Geometry
+4.1.21.,,,Mathematical Physics
+4.1.22.,,,Numerical Analysis
+4.1.23.,,,Number Theory
+4.1.24.,,,Operator Algebras
+4.1.25.,,,Optimization and Control
+4.1.26.,,,Probability
+4.1.27.,,,Quantum Algebra
+4.1.28.,,,Rings and Algebras
+4.1.29.,,,Representation Theory
+4.1.30.,,,Symplectic Geometry
+4.1.31.,,,Spectral Theory
+4.1.32.,,,Statistics Theory
+5. +0,Physics,,
+5.1.,,Astrophysics,
+5.1.1.,,,Cosmology and Nongalactic Astrophysics
+5.1.2.,,,Earth and Planetary Astrophysics
+5.1.3.,,,Astrophysics of Galaxies
+5.1.4.,,,High Energy Astrophysical Phenomena
+5.1.5.,,,Instrumentation and Methods for Astrophysics
+5.1.6.,,,Solar and Stellar Astrophysics
+5.2.,,Condensed Matter,
+5.2.1.,,,Disordered Systems and Neural Networks
+5.2.2.,,,Mesoscale and Nanoscale Physics
+5.2.3.,,,Materials Science
+5.2.4.,,,Other Condensed Matter
+5.2.5.,,,Quantum Gases
+5.2.6.,,,Soft Condensed Matter
+5.2.7.,,,Statistical Mechanics
+5.2.8.,,,Strongly Correlated Electrons
+5.2.9.,,,Superconductivity
+5.3.,,General Relativity and Quantum Cosmology,
+5.3.1.,,,General Relativity and Quantum Cosmology
+5.4.,,High Energy Physics - Experiment,
+5.4.1.,,,High Energy Physics - Experiment
+5.5.,,High Energy Physics - Lattice,
+5.5.1.,,,High Energy Physics - Lattice
+5.6.,,High Energy Physics - Phenomenology,
+5.6.1.,,,High Energy Physics - Phenomenology
+5.7.,,High Energy Physics - Theory,
+5.7.1.,,,High Energy Physics - Theory
+5.8.,,Mathematical Physics,
+5.8.1.,,,Mathematical Physics
+5.9.,,Nonlinear Sciences,
+5.9.1.,,,Adaptation and Self-Organizing Systems
+5.9.2.,,,Chaotic Dynamics
+5.9.3.,,,Cellular Automata and Lattice Gases
+5.9.4.,,,Pattern Formation and Solitons
+5.9.5.,,,Exactly Solvable and Integrable Systems
+5.10.,,Nuclear Experiment,
+5.10.1.,,,Nuclear Experiment
+5.11.,,Nuclear Theory,
+5.11.1.,,,Nuclear Theory
+5.12.,,Physics,
+5.12.1.,,,Accelerator Physics
+5.12.2.,,,Atmospheric and Oceanic Physics
+5.12.3.,,,Applied Physics
+5.12.4.,,,Atomic and Molecular Clusters
+5.12.5.,,,Atomic Physics
+5.12.6.,,,Biological Physics
+5.12.7.,,,Chemical Physics
+5.12.8.,,,Classical Physics
+5.12.9.,,,Computational Physics
+5.12.10.,,,"Data Analysis, Statistics and Probability"
+5.12.11.,,,Physics Education
+5.12.12.,,,Fluid Dynamics
+5.12.13.,,,General Physics
+5.12.14.,,,Geophysics
+5.12.15.,,,History and Philosophy of Physics
+5.12.16.,,,Instrumentation and Detectors
+5.12.17.,,,Medical Physics
+5.12.18.,,,Optics
+5.12.19.,,,Plasma Physics
+5.12.20.,,,Popular Physics
+5.12.21.,,,Physics and Society
+5.12.22.,,,Space Physics
+5.13.,,Quantum Physics,
+5.13.1.,,,Quantum Physics
+6. +0,Quantitative Biology,,
+6.1.,,Quantitative Biology,
+6.1.1.,,,Biomolecules
+6.1.2.,,,Cell Behavior
+6.1.3.,,,Genomics
+6.1.4.,,,Molecular Networks
+6.1.5.,,,Neurons and Cognition
+6.1.6.,,,Other Quantitative Biology
+6.1.7.,,,Populations and Evolution
+6.1.8.,,,Quantitative Methods
+6.1.9.,,,Subcellular Processes
+6.1.10.,,,Tissues and Organs
+7. +0,Quantitative Finance,,
+7.1.,,Quantitative Finance,
+7.1.1.,,,Computational Finance
+7.1.2.,,,Economics
+7.1.3.,,,General Finance
+7.1.4.,,,Mathematical Finance
+7.1.5.,,,Portfolio Management
+7.1.6.,,,Pricing of Securities
+7.1.7.,,,Risk Management
+7.1.8.,,,Statistical Finance
+7.1.9.,,,Trading and Market Microstructure
+8. +0,Statistics,,
+8.1.,,Statistics,
+8.1.1.,,,Applications
+8.1.2.,,,Computation
+8.1.3.,,,Methodology
+8.1.4.,,,Machine Learning
+8.1.5.,,,Other Statistics
+8.1.6.,,,Statistics Theory
